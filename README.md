@@ -1,6 +1,6 @@
 # ForenSight-AI : AI-BASED-INTELLIGENT-LOG-FORENSICS-INCIDENT-RESPONSE-ASSISTANT
 
-Group Project – Digital Forensics & Cybersecurity (Year 3)
+Group Project – Digital Forensics & Cybersecurity (Year 3) [2025-2026]
 
 ### Team Responsibilities
 - Michael Furmaga: Log Ingestion & Parsing
