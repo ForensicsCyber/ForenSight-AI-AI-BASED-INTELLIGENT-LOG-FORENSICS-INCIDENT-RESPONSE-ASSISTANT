@@ -1,11 +1,6 @@
 # ForenSight-AI : AI-BASED-INTELLIGENT-LOG-FORENSICS-INCIDENT-RESPONSE-ASSISTANT
 
-Group Project – Digital Forensics & Cybersecurity (Year 3) [2025-2026]
+AI-assisted SOC/SIEM platform for forensic log analysis,
+threat detection, IOC extraction and PDF reporting.
 
-### Team Responsibilities
-- Michael Furmaga: Log Ingestion & Parsing
-- Vishwajeet Singh Rathore: Detection Engine & Attack Timeline
-- Gabisile Shobowale: AI reasoning, GUI & Reporting
-
-### Collaboration
-GitHub was used for version control, collaboration and contribution tracking.
+More documentation coming soon...
